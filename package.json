@@ -1,0 +1,24 @@
+{
+  "name": "aplicacaonodeaula",
+  "version": "1.0.0",
+  "description": "\"Aplicativo da aual\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lrodrigues94/GitAula04.git"
+  },
+  "keywords": [
+    "\"Aplicacao",
+    "aula",
+    "teste\""
+  ],
+  "author": "Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lrodrigues94/GitAula04/issues"
+  },
+  "homepage": "https://github.com/Lrodrigues94/GitAula04#readme"
+}
